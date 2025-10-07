@@ -5,7 +5,7 @@ Este projeto é um **sistema de admissão de funcionários**, dividido em **dois
 - **Módulo Colaborador:** acessado pelo futuro colaborador para envio de informações e documentos necessários à sua admissão.
 
 > ⚠️ Este repositório contém **apenas o Front-end** da aplicação, desenvolvido em **React.js + TypeScript + Vite**.  
-> O **Back-end** foi desenvolvido por **{NOME DO DESENVOLVEDOR}** e está disponível em **{LINK DO REPOSITÓRIO}**.  
+> O **Back-end** foi desenvolvido por **Gabriel Alan Shumabucoro** e está disponível em **https://github.com/Haise777**.  
 >  
 > O sistema é **integrado ao TOTVS Protheus**, onde as admissões são registradas após a validação final.
 
