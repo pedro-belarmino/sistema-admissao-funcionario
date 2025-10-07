@@ -1,0 +1,13 @@
+version: '3.4'
+
+services:
+  front-admissao-digital-colaborador:
+    container_name: ${VITE_CONTAINER_NAME}
+    image: ${VITE_IMAGE_NAME}
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+    environment:
+      NODE_ENV: production
+    ports:
+      - "${VITE_HOST_PORT}:3000"
